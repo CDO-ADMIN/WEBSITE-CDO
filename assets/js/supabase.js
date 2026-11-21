@@ -14,8 +14,8 @@
 // ==========================================
 // [!] GANTI DENGAN KREDENSIAL SUPABASE ANDA:
 // ==========================================
-const SUPABASE_URL = 'https://xiaktoevnbqmhnywfpvv.supabase.co'; // Masukkan Supabase URL Anda di sini
-const SUPABASE_ANON_KEY = 'sb_publishable_OFGd1RUWSC46gma7SNOhsA_CBXeJtn3';     // Masukkan Supabase Anon Key Anda di sini
+const SUPABASE_URL = 'https://lqktorkepruhvgxbhdbb.supabase.co'; // Masukkan Supabase URL Anda di sini
+const SUPABASE_ANON_KEY = "sb_publishable_lq4MmZFltkWDSzWzTROmZg_aJxG1IPd' ;     // Masukkan Supabase Anon Key Anda di sini
 
 // ==========================================
 // Inisialisasi Supabase Client
